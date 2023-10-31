@@ -4,7 +4,7 @@ The Tableau data visualization aims at finding the top artist by country and det
  1. The dataset is downloaded from Kaggle's spotify_dataset and is refreshed daily with a snapshot of the previous day's top 50 songs by country. Please find the data dictionary 
      explaining various fields used in the visualization
      spotify_id - unique ID of a song
-     name - song name
+     ###name - song name
      artists -  song artists (one or more as comma separated string)
      daily rank - daily rank of a song by country
      popularity - A measure of the song's current popularity on Spotify. (type: int)
