@@ -1,5 +1,5 @@
 # SpotifyTrends
-The Tableau data visualization aims at finding the top artist by country and determines various characteristics of music like energy vs danceability and time series analysis of acoustics and valence
+The [Tableau data visualization] (https://public.tableau.com/app/profile/meeta.pandit5906/viz/TrendsinSpotifySongsbyCountry/Dashboard1)aims at finding the top artist by country and determines various characteristics of music like energy vs danceability and time series analysis of acoustics and valence. [Data Viz link] (https://public.tableau.com/app/profile/meeta.pandit5906/viz/TrendsinSpotifySongsbyCountry/Dashboard1)
 
  1. The dataset is downloaded from Kaggle's spotify_dataset and is refreshed daily with a snapshot of the previous day's top 50 songs by country. Please find the data dictionary 
      explaining various fields used in the visualization
