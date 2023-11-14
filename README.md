@@ -15,7 +15,7 @@ The [Tableau data visualization](https://public.tableau.com/app/profile/meeta.pa
      - danceability - A measure of how suitable the song is for dancing based on various musical elements. (type: float)
  
  3. The dataset is uploaded to Google Cloud storage and read as dataframe into Jupyter notebook
- 4. Please find Jupyter notebook uploaded in the code section for a detailed walkthrough
+ 4. Please find [Jupyter notebook](https://github.com/meetapandit/SpotifyTrends/blob/main/EDA_spotify_dataset.ipynb) uploaded in the code section for a detailed walkthrough
  5. The data visualization is created in Tableau. Please find below guidance to navigate the dashboard:
      - The dashboard is refreshed on 10/27/2023 and a new snapshot of top 50 songs from each country is updated everyday
    - Please select Country dropdown from the filter or Select one of the countries from the map
